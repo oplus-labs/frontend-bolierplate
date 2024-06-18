@@ -1,0 +1,9 @@
+node_modules
+dist
+vite.config.ts
+vite-env.d.ts
+project.d.ts
+src/constants/Proxies.ts
+src/assets/tailwind.css
+src/assets
+tailwind.config.js
