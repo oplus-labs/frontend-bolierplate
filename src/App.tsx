@@ -21,7 +21,7 @@ export default function App() {
             <div className="cover m-auto flex w-[70%] flex-col gap-1">
               <h1 className="text-[3rem] uppercase  md:text-[5rem]">opluslab(s)</h1>
               <h1 className="text-[1rem] first-letter:text-4xl md:text-2xl md:first-letter:text-8xl">
-                Frontend <p className="inline bg-[#FFDC1C] px-1 text-center font-bold text-black">Maintanance.</p>
+                Frontend <p className="inline bg-[#FFDC1C] px-1 text-center font-bold text-black">Boilerplate.</p>
               </h1>
               <p className="text-2xl font-thin">Happy Coding. 😍</p>
             </div>
