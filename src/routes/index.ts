@@ -1,4 +1,4 @@
-import Home from '@/ui/pages';
+import Home from '@/ui/pages/Home';
 
 export interface IRoute {
   id?: number;
